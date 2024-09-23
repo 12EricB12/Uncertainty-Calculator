@@ -13,6 +13,10 @@ Multiplication/division uncertainty
 Power uncertainty  
 The mental state of any PHYS 131 student as the app icon
 
+# Input specification
+Only double values (ie. decimals/integers, no support for constants like pi or Euler's number)  
+Scientific notation: (VALUE)E±(MAGNITUDE)
+
 # Find a bug?
 If you find an issue or want to make a suggestion, please do so under the **issues** tab.
 
