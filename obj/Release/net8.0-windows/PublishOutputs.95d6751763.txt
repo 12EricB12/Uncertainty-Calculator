@@ -1,0 +1,5 @@
+C:\Users\Ericb\Desktop\Folderception\UncertaintyCalculator\UncertaintyCalculator.exe
+C:\Users\Ericb\Desktop\Folderception\UncertaintyCalculator\UncertaintyCalculator.dll
+C:\Users\Ericb\Desktop\Folderception\UncertaintyCalculator\UncertaintyCalculator.deps.json
+C:\Users\Ericb\Desktop\Folderception\UncertaintyCalculator\UncertaintyCalculator.runtimeconfig.json
+C:\Users\Ericb\Desktop\Folderception\UncertaintyCalculator\UncertaintyCalculator.pdb
