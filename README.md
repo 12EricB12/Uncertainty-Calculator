@@ -6,7 +6,7 @@ If you want the direct download link, here it is:
 https://www.mediafire.com/file/kzlgppdc9xqrn5u/UncertaintyCalculator.zip/file
 
 Otherwise, you can sort through the source code if you're feeling like it. If you find an issue or want to make a suggestion, please do so under the issues tab.
-Remember: I am a uni student. So updates will come as I please. This is also half spaghetti code, so don't expect any production level code.
+Remember: I am a uni student. So updates will come when I don't have 20 different assignments due on Friday. This is also half spaghetti code, so don't expect any production level code.
 
 Anyways, have fun with it and good luck on your future labs!
 
