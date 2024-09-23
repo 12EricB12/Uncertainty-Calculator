@@ -8,10 +8,10 @@ https://www.mediafire.com/file/kzlgppdc9xqrn5u/UncertaintyCalculator.zip/file
 Otherwise, you can sort through the source code if you're feeling like it. 
 
 # Features
-Addition/subtraction uncertainty with a final value
-Multiplication/division uncertainty
-Power uncertainty
-The mental state of any PHYS 131 student as the app icon
+Addition/subtraction uncertainty with a final value \n
+Multiplication/division uncertainty \n
+Power uncertainty \n
+The mental state of any PHYS 131 student as the app icon \n
 
 # Find a bug?
 If you find an issue or want to make a suggestion, please do so under the **issues** tab.
