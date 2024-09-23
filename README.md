@@ -22,5 +22,5 @@ This is also half spaghetti code, so don't expect any production level code. Its
 Anyways, have fun with it and good luck on your future labs!
 
 # OS Requirements
-Windows only for now
+Windows only for now  
 .NET Framework (8.0) if you're planning on doing anything with the code
