@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UncertaintyCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a7192cf479bbd6539d733abbd6a055156a87732")]
 [assembly: System.Reflection.AssemblyProductAttribute("UncertaintyCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UncertaintyCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
